@@ -1,1 +1,5 @@
-curl -l 
+# Alternative curl install
+
+```shell
+curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sudo sh
+```
